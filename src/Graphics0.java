@@ -7,7 +7,7 @@ public class Graphics0 extends JFrame {
 	static int screenHeight = 600;
 
 	public Graphics0() {  
-		super("Your Title");
+		super("Title");
 		setBounds(0, 0, screenWidth, screenHeight);  
 		setResizable(false);
 		setVisible(true);
