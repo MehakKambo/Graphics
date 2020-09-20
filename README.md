@@ -13,3 +13,6 @@ You can run the file to see the result.
 
 MovingObject1.java shows two different stars, one red and other in blue color, bouncing off the walls with different speeds.
 You can run the file to see the result.
+
+
+All the files can be found in src folder.
